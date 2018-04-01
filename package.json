@@ -1,0 +1,25 @@
+{
+  "name": "sample-jquery-catalog",
+  "version": "1.0.0",
+  "description": "edu repository",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolgodvorov-sa/sample-jquery-catalog.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolgodvorov-sa/sample-jquery-catalog/issues"
+  },
+  "homepage": "https://github.com/dolgodvorov-sa/sample-jquery-catalog#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.7.0"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
